@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-dataset = pd.read_csv('C:\\vishal\\study\\machine learning\\car_dataset.csv',header=None)
+dataset = pd.read_csv('car_dataset.csv',header=None)
 
 def rem(val):
     v =val
